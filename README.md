@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente, estagio no BNDES
 - 🚀 Administradora Pública e Data Scientist em formação
-- 🌱 No momento estou aprendendo mais sobre Python, SQL e POwer BI
+- 🌱 No momento estou aprendendo mais sobre Python, SQL e Power BI
 - 📫 Se quiser falar comigo, meu email é aylamn@gmail.com
 - ⚡ Curiosidade: Tenho 9 gatos!  🐱
 

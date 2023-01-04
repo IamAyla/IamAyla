@@ -2,8 +2,8 @@
 
 - 🔭 Atualmente, sou estagiária de Data Scientist na Ipiranga
 - 🚀 Administradora Pública e Data Scientist em formação
-- 🌱 No momento estou aprendendo mais sobre Python, SQL e Power BI
-- 📫 Se quiser falar comigo, meu email é aylamn@gmail.com
+- 🌱 No momento estou aprendendo mais sobre Python e Machine Learning
+- 📫 Se quiser falar comigo meu email é aylamn@gmail.com
 - ⚡ Curiosidade: Tenho 9 gatos!  🐱
 
 <br/>  

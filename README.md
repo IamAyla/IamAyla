@@ -1,10 +1,10 @@
 ### Olá, eu sou a Ayla 👋
 
 - 🔭 Atualmente, sou estagiária de Data Scientist na Ipiranga
-- 🚀 Administradora Pública e Data Scientist em formação
-- 🌱 No momento estou aprendendo mais sobre Python e Machine Learning
+- 🚀 Mestranda em Administração e Data Scientist em formação
+- 🌱 No momento estou aprendendo mais sobre Machine Learning
 - 📫 Se quiser falar comigo meu email é aylamn@gmail.com
-- ⚡ Curiosidade: Tenho 9 gatos!  🐱
+- ⚡ Curiosidade: Tenho 7 gatos!  🐱
 
 <br/>  
 

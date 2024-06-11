@@ -1,7 +1,7 @@
 ### Olá, eu sou a Ayla 👋
 
-- 🔭 Atualmente, sou estagiária de Data Scientist na Ipiranga
-- 🚀 Mestranda em Administração e Data Scientist em formação
+- 🔭 Atualmente, sou Analista de dados na OLX
+- 🚀 Mestranda em Administração e sempre buscando desenvolver mais minhas habilidades em dados
 - 🌱 No momento estou aprendendo mais sobre Machine Learning
 - 📫 Se quiser falar comigo meu email é aylamn@gmail.com
 - ⚡ Curiosidade: Tenho 7 gatos!  🐱
